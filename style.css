@@ -1,0 +1,70 @@
+.container {
+  max-width: 1700px;
+}
+
+/*navigation links---------------------------------------------*/
+.nav-bar {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+.nav-link:link {
+  color: #464f41;
+}
+.nav-link:hover {
+  text-decoration: underline;
+  color: #bfcba8;
+}
+.nav-link:visited {
+  color: #56776c;
+}
+.nav-link:active {
+  color: #bfcba8;
+}
+/*-------------------------------------------------------------*/
+/*Website information------------------------------------------*/
+h1 {
+  font-family: "Quattrocento", serif;
+}
+h2 {
+  font-family: "Quattrocento", serif;
+}
+h3 {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+
+p {
+  font-family: "Quattrocento Sans", sans-serif;
+}
+.hero {
+  background-color: #bfcba8;
+}
+/*-------------------------------------------------------------*/
+/*Skills------------------------------------------*/
+
+/*RESUME PAGE-------------------------------------------------*/
+#resume {
+  text-align: center;
+}
+#resumeInfo {
+  font-size: medium;
+  width: 950px;
+  margin: auto;
+}
+/*ABOUT ME PAGE-------------------------------------------------*/
+#aboutMe {
+  text-align: center;
+}
+#infoAboutMe {
+  font-size: large;
+  width: 950px;
+  margin: auto;
+}
+
+/*CONTACT ME PAGE-------------------------------------------------*/
+#contactMe {
+  text-align: center;
+}
+#contactInfo {
+  font-size: large;
+  width: 450px;
+  margin: auto;
+}
